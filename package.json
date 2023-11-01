@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "zenn preview",
+    "new:article": "zenn new:article",
+    "new:book": "zenn new:book",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,7 +20,7 @@
     "url": "https://github.com/Omochice/zenn-contents/issues"
   },
   "homepage": "https://github.com/Omochice/zenn-contents#readme",
-  "dependencies": {
+  "devDependencies": {
     "zenn-cli": "^0.1.91"
   }
 }
