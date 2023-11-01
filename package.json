@@ -2,25 +2,30 @@
   "name": "zenn-contents",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "dev": "zenn preview",
-    "new:article": "zenn new:article",
-    "new:book": "zenn new:book",
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "keywords": [],
+  "homepage": "https://github.com/Omochice/zenn-contents#readme",
+  "bugs": {
+    "url": "https://github.com/Omochice/zenn-contents/issues"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Omochice/zenn-contents.git"
   },
-  "keywords": [],
-  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Omochice/zenn-contents/issues"
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "zenn preview",
+    "fmt": "sort-package-json",
+    "new:article": "zenn new:article",
+    "new:book": "zenn new:book",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/Omochice/zenn-contents#readme",
   "devDependencies": {
+    "sort-package-json": "^2.6.0",
+    "textlint": "^13.3.3",
+    "textlint-rule-preset-ja-technical-writing": "^8.0.0",
+    "textlint-rule-preset-japanese": "^8.0.0",
     "zenn-cli": "^0.1.91"
   }
 }
