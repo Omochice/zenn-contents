@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Omochice/zenn-contents#readme",
   "devDependencies": {
+    "sort-package-json": "^2.6.0",
     "zenn-cli": "^0.1.91"
   }
 }
