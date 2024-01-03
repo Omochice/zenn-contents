@@ -24,7 +24,7 @@
   "devDependencies": {
     "sort-package-json": "^2.6.0",
     "textlint": "^13.3.3",
-    "textlint-rule-preset-ja-technical-writing": "^8.0.0",
+    "textlint-rule-preset-ja-technical-writing": "^10.0.0",
     "textlint-rule-preset-japanese": "^10.0.0",
     "zenn-cli": "^0.1.91"
   }
