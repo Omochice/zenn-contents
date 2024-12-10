@@ -18,8 +18,8 @@ importers:
         specifier: 14.0.0
         version: 14.0.0
       textlint-rule-preset-ja-technical-writing:
-        specifier: 10.0.0
-        version: 10.0.0(textlint@14.0.0)
+        specifier: 10.0.1
+        version: 10.0.1(textlint@14.0.0)
       textlint-rule-preset-japanese:
         specifier: 10.0.0
         version: 10.0.0
@@ -2112,8 +2112,8 @@ packages:
   textlint-rule-no-zero-width-spaces@1.0.1:
     resolution: {integrity: sha512-AkxpzBILGB4YsXddzHx2xqpXmqMv5Yd+PQm4anUV+ADSJuwLP1Jd6yHf/LOtu9j3ps8K3XM9vQrXRK73z0bU3A==}
 
-  textlint-rule-preset-ja-technical-writing@10.0.0:
-    resolution: {integrity: sha512-8z+++wdqOabCwDSk1DNvcmCUEKPQhGeYSn8MoJ33v8gklqdn1uRfP29rBXXGobJbi0dhisntN4WzWrqtUEFDMg==}
+  textlint-rule-preset-ja-technical-writing@10.0.1:
+    resolution: {integrity: sha512-GC7sUPsn65UOZcBQ+SLvt3RRmGcm3Fb8t/o8/hD/zyRr1NpYYNrtte0HckVnCPH3TD8zbMt4mov2nlnfA8f7gg==}
 
   textlint-rule-preset-japanese@10.0.0:
     resolution: {integrity: sha512-JAxNXrw3uvbZUNV9q6V1B/bU5uq7Pb1GpV9BGJ1DMpzRc0bVuwpeeDS+FEjZogoXFy9KlnLZ/YV7fIv05tYyVg==}
@@ -4848,7 +4848,7 @@ snapshots:
 
   textlint-rule-no-zero-width-spaces@1.0.1: {}
 
-  textlint-rule-preset-ja-technical-writing@10.0.0(textlint@14.0.0):
+  textlint-rule-preset-ja-technical-writing@10.0.1(textlint@14.0.0):
     dependencies:
       '@textlint-rule/textlint-rule-no-invalid-control-character': 2.1.0
       '@textlint-rule/textlint-rule-no-unmatched-pair': 2.0.4
