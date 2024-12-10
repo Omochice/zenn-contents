@@ -201,7 +201,7 @@ Hello, Typst!
 
 具体的には下記のようなコンパイルエラーが起きました。
 
-```
+```console
 > (前略)
 > downloading @preview/touying:0.5.3
 > 295.3 KiB / 295.3 KiB (100 %) 295.3 KiB/s in 26.27 ms ETA: 0 s
