@@ -11,7 +11,7 @@ published_at: 2024-12-11 00:00
 この記事は[Typst Advent Calendar 2024](https://qiita.com/advent-calendar/2024/typst)の11日目の記事です。
 :::
 
-## TL;DR:
+## TL;DR
 
 - Typixを使うとNixとTypstが扱いやすい
 - Nixでも抽象化しきれない部分でエラーになることがある
