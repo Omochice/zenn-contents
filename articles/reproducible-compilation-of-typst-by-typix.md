@@ -237,7 +237,7 @@ https://github.com/typst/typst/issues/3892
 <             XDG_CACHE_HOME = typstPackagesCache;
 ```
 
-これで手元がMacでCIでビルドしたいなど複数OSで再現性を持ってコンパイルできるようになりました。
+これで手元のPCがMacの時にCIでコンパイルしたいなど、複数OSで再現性を持ってコンパイルできるようになりました。
 
 ## おわりに
 
