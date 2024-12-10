@@ -23,11 +23,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "npm-run-all2": "^7.0.1",
-    "sort-package-json": "^2.6.0",
-    "textlint": "^14.0.0",
-    "textlint-rule-preset-ja-technical-writing": "^10.0.0",
-    "textlint-rule-preset-japanese": "^10.0.0",
-    "zenn-cli": "^0.1.91"
+    "npm-run-all2": "7.0.1",
+    "sort-package-json": "2.6.0",
+    "textlint": "14.0.0",
+    "textlint-rule-preset-ja-technical-writing": "10.0.0",
+    "textlint-rule-preset-japanese": "10.0.0",
+    "zenn-cli": "0.1.91"
   }
 }
