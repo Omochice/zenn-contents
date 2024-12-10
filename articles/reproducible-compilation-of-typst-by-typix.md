@@ -21,7 +21,7 @@ published_at: 2024-12-11 00:00
 
 [Typst](https://typst.app/)でスライドを作成するツールに[Touying](https://github.com/touying-typ/touying)というものがあります。
 
-これを使うとスライドをTypstのコードから生成することが可能です。
+これを使うとスライドをTypstのコードから生成できます。
 
 Typstのコードから生成できるということはPlain textから生成できるという訳で、Plain textということはgitで管理してdiffをGitHubなどで見ることができるということです。
 
