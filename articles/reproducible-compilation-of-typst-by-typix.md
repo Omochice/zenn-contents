@@ -222,7 +222,9 @@ Typstのpackageの使用については[workaroundで紹介されているもの
 
 https://github.com/typst/typst/issues/3892
 
-なので、mac OSを対象にする場合、Typstの[0.12.0](https://github.com/typst/typst/releases/tag/v0.12.0)で追加された`package-path`のオプションを使用する(あるいは`/homeless-shelter/Library/...`をMacのときだけ用意するようにNixを設定するか)が必要です。
+なので、mac OSを対象にする場合、Typstの[0.12.0](https://github.com/typst/typst/releases/tag/v0.12.0)で追加された`package-path`のオプションを使うとOS差分を減らせます。
+
+(あるいは`/homeless-shelter/Library/...`をMacのときだけ用意するように`flake.nix`を設定するか)
 
 ```diff:nix
 56c56,58
