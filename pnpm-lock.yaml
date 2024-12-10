@@ -21,8 +21,8 @@ importers:
         specifier: 10.0.1
         version: 10.0.1(textlint@14.0.0)
       textlint-rule-preset-japanese:
-        specifier: 10.0.0
-        version: 10.0.0
+        specifier: 10.0.3
+        version: 10.0.3
       zenn-cli:
         specifier: 0.1.91
         version: 0.1.91(@babel/core@7.26.0)(@types/markdown-it@14.1.2)(react-is@17.0.2)
@@ -2115,8 +2115,8 @@ packages:
   textlint-rule-preset-ja-technical-writing@10.0.1:
     resolution: {integrity: sha512-GC7sUPsn65UOZcBQ+SLvt3RRmGcm3Fb8t/o8/hD/zyRr1NpYYNrtte0HckVnCPH3TD8zbMt4mov2nlnfA8f7gg==}
 
-  textlint-rule-preset-japanese@10.0.0:
-    resolution: {integrity: sha512-JAxNXrw3uvbZUNV9q6V1B/bU5uq7Pb1GpV9BGJ1DMpzRc0bVuwpeeDS+FEjZogoXFy9KlnLZ/YV7fIv05tYyVg==}
+  textlint-rule-preset-japanese@10.0.3:
+    resolution: {integrity: sha512-/h9ev8dBnRCgLqS4OPzXk5eTJNSqz7ezRNwuCLTlyN63leTSLCJQ62fyWX2hVRNebHczj5UqzVeJgn78kAnxmQ==}
 
   textlint-rule-preset-jtf-style@2.3.14:
     resolution: {integrity: sha512-xkVclRrC921eejsDP79dt7UhwT15825etgQSQx8SvOqaPRNwDdQ7kzep4LIyrdLgPm/3k/gX8qyw0BrN02U27w==}
@@ -4878,7 +4878,7 @@ snapshots:
       - supports-color
       - textlint
 
-  textlint-rule-preset-japanese@10.0.0:
+  textlint-rule-preset-japanese@10.0.3:
     dependencies:
       '@textlint-rule/textlint-rule-no-invalid-control-character': 2.1.0
       '@textlint/module-interop': 13.4.1
