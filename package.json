@@ -28,6 +28,6 @@
     "textlint": "14.0.0",
     "textlint-rule-preset-ja-technical-writing": "10.0.1",
     "textlint-rule-preset-japanese": "10.0.3",
-    "zenn-cli": "0.1.91"
+    "zenn-cli": "0.1.158"
   }
 }
