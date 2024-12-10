@@ -220,7 +220,7 @@ Typstのpackageの使用については[workaroundで紹介されているもの
 
 どうやらTypstは内部的に[dirs](https://docs.rs/dirs/latest/dirs/)のcrateを使っているようで、動作しているOSによってパッケージのインストール先を変更していました。
 
-ref: https://github.com/typst/typst/issues/3892
+https://github.com/typst/typst/issues/3892
 
 なので、mac OSを対象にする場合、Typstの[0.12.0](https://github.com/typst/typst/releases/tag/v0.12.0)で追加された`package-path`のオプションを使用する(あるいは`/homeless-shelter/Library/...`をMacのときだけ用意するようにNixを設定するか)が必要です。
 
