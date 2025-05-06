@@ -28,7 +28,7 @@
     "textlint": "14.7.1",
     "textlint-rule-preset-ja-technical-writing": "12.0.2",
     "textlint-rule-preset-japanese": "10.0.4",
-    "zenn-cli": "0.1.158"
+    "zenn-cli": "0.1.159"
   },
   "packageManager": "pnpm@10.10.0",
   "pnpm": {
