@@ -33,7 +33,7 @@
   "packageManager": "pnpm@10.15.0",
   "pnpm": {
     "executionEnv": {
-      "nodeVersion": "22.18.0"
+      "nodeVersion": "22.19.0"
     }
   }
 }
