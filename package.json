@@ -25,7 +25,7 @@
   "devDependencies": {
     "npm-run-all2": "8.0.4",
     "sort-package-json": "3.4.0",
-    "textlint": "15.2.2",
+    "textlint": "15.2.3",
     "textlint-rule-preset-ja-technical-writing": "12.0.2",
     "textlint-rule-preset-japanese": "10.0.4",
     "zenn-cli": "0.2.3"
