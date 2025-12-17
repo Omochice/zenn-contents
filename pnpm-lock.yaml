@@ -12,8 +12,8 @@ importers:
         specifier: 8.0.4
         version: 8.0.4
       sort-package-json:
-        specifier: 3.5.1
-        version: 3.5.1
+        specifier: 3.6.0
+        version: 3.6.0
       textlint:
         specifier: 15.5.0
         version: 15.5.0
@@ -1285,11 +1285,6 @@ packages:
   safer-buffer@2.1.2:
     resolution: {integrity: sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==}
 
-  semver@7.7.1:
-    resolution: {integrity: sha512-hlq8tAfn0m/61p4BVRcPzIGr6LKiMwo4VM6dGi6pt4qcRkmNzTcWq6eCEjEh+qXjkMDvPlOFFSGwQjoEa6gyMA==}
-    engines: {node: '>=10'}
-    hasBin: true
-
   semver@7.7.3:
     resolution: {integrity: sha512-SdsKMrI9TdgjdweUSR9MweHA4EJ8YxHn8DFaDisvhVlUOe4BF1tLD7GAj0lIqWVl+dPb/rExr0Btby5loQm20Q==}
     engines: {node: '>=10'}
@@ -1356,8 +1351,8 @@ packages:
   sort-object-keys@2.0.1:
     resolution: {integrity: sha512-R89fO+z3x7hiKPXX5P0qim+ge6Y60AjtlW+QQpRozrrNcR1lw9Pkpm5MLB56HoNvdcLHL4wbpq16OcvGpEDJIg==}
 
-  sort-package-json@3.5.1:
-    resolution: {integrity: sha512-LfwyHQuTnJ3336Sexi6yDz1QxvSjXKbc78pOw2HQy8BJHFXzONu+zLvLald0NpLWM0exsYyI7M8PeJAngNgpbA==}
+  sort-package-json@3.6.0:
+    resolution: {integrity: sha512-fyJsPLhWvY7u2KsKPZn1PixbXp+1m7V8NWqU8CvgFRbMEX41Ffw1kD8n0CfJiGoaSfoAvbrqRRl/DcHO8omQOQ==}
     engines: {node: '>=20'}
     hasBin: true
 
@@ -2959,7 +2954,7 @@ snapshots:
   normalize-package-data@6.0.2:
     dependencies:
       hosted-git-info: 7.0.2
-      semver: 7.7.1
+      semver: 7.7.3
       validate-npm-package-license: 3.0.4
 
   npm-normalize-package-bin@4.0.0: {}
@@ -3213,8 +3208,6 @@ snapshots:
 
   safer-buffer@2.1.2: {}
 
-  semver@7.7.1: {}
-
   semver@7.7.3: {}
 
   send@1.2.0:
@@ -3311,7 +3304,7 @@ snapshots:
 
   sort-object-keys@2.0.1: {}
 
-  sort-package-json@3.5.1:
+  sort-package-json@3.6.0:
     dependencies:
       detect-indent: 7.0.2
       detect-newline: 4.0.1
