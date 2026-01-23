@@ -30,7 +30,7 @@
     "textlint-rule-preset-japanese": "10.0.4",
     "zenn-cli": "0.2.11"
   },
-  "packageManager": "pnpm@10.28.0",
+  "packageManager": "pnpm@10.28.1",
   "pnpm": {
     "executionEnv": {
       "nodeVersion": "24.13.0"
